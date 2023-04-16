@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/tamagoez/cokia-pages',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Cokia Pages (written by @tamagoez)',
   },
 }
 
