@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Cokia Pages</span>,
+  logo: <span>Neem Pages</span>,
   project: {
-    link: 'https://github.com/tamagoez/cokia-web',
+    link: 'https://github.com/tamagoez/neem-web',
   },
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/tamagoez/cokia-pages',
+  docsRepositoryBase: 'https://github.com/tamagoez/neem-pages',
   footer: {
-    text: 'Cokia Pages (written by @tamagoez)',
+    text: 'Neem Pages (written by @tamagoez)',
   },
 }
 
