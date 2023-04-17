@@ -6,7 +6,7 @@ export default function CommitLink({ id }) {
         target="_blank"
         rel="noopener noreferrer"
       >
-        {commit}
+        {id}
       </a>
     </code>
   );
