@@ -19,7 +19,7 @@ const config: DocsThemeConfig = {
   },
   banner: {
     key: '0.0.1-release',
-    text: <a href="https://nextra.site" target="_blank">
+    text: <a href="https://neem.vercel.app/joinbeta?utm_source=neem-pages&utm_medium=web" target="_blank">
       ⛏ Neem 0.0.1 will be released. Join Beta →
     </a>,
   },
@@ -45,7 +45,10 @@ const config: DocsThemeConfig = {
   editLink: {
     text: "Edit on GitHub"
   },
-  faviconGlyph: "📝"
+  faviconGlyph: "📝",
+  toc: {
+    float: false,
+  },
 };
 
 export default config
