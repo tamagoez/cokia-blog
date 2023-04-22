@@ -1,6 +1,9 @@
 {
   "index": "Neem Index",
   "changelog": "変更ログ",
+  "---": {
+    "type": "separator"
+  },
   "idea": "アイデア",
   "contact": {
     "title": "GitHub(Neem-pages) ↗",
